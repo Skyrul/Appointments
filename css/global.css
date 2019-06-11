@@ -1,0 +1,153 @@
+@font-face {
+    font-family: 'MyriadPro-Regular';
+    src: font-url('/fonts/myriadpro_regular.eot');
+    src: font-url('/fonts/myriadpro_regular.eot') format('embedded-opentype'),
+         font-url('/fonts/myriadpro_regular.woff') format('woff'),
+         font-url('/fonts/myriadpro_regular.ttf') format('truetype'),
+         font-url('/fonts/myriadpro_regular.svg#MyriadProRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'MyriadPro-Light';
+    src: font-url('/fonts/myriadpro_light.eot');
+    src: font-url('/fonts/myriadpro_light.eot') format('embedded-opentype'),
+         font-url('/fonts/myriadpro_light.woff') format('woff'),
+         font-url('/fonts/myriadpro_light.ttf') format('truetype'),
+         font-url('/fonts/myriadpro_light.svg#MyriadProLight') format('svg');
+}
+
+@font-face {
+    font-family: 'MyriadPro-Bold';
+    src: font-url('/fonts/myriadpro_bold.eot');
+    src: font-url('/fonts/myriadpro_bold.eot') format('embedded-opentype'),
+         font-url('/fonts/myriadpro_bold.woff') format('woff'),
+         font-url('/fonts/myriadpro_bold.ttf') format('truetype'),
+         font-url('/fonts/myriadpro_bold.svg#MyriadProBold') format('svg');
+}
+
+body {
+    font-family: MyriadPro-Regular, sans-serif;
+    background-color: #ffffff;
+}
+
+.menuwithlogo .navbar-brand>img {
+    padding: 7px 15px;
+}
+
+#mainlogo {
+    width: 300px;
+}
+
+.navbar-nav {
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    background-color: white;
+}
+
+#content {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#footer {
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #0A4776;
+    color: white;
+}
+
+.head1 {
+    background-image: url("../images/Group_11.png");
+    color: white;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin-top: -20px;
+}
+
+.box-1 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.btn {
+    border-radius: 16px !important;
+}
+
+.btn-warning {
+    background-color: #F0903C;
+}
+
+.btn-md {
+    font-size: 16px;
+}
+
+.slick-carousel {
+    background-color: #ededed;
+    padding: 40px;
+    box-shadow: grey 0px 7px 29px;
+}
+
+.slick-prev:before {
+    color: black;
+}
+
+.slick-next:before {
+    color: black;
+}
+
+.slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 24px;
+    height: 24px;
+    padding: 6px;
+    cursor: pointer;
+    color: black;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+
+h1.title {
+    color: #0a4776;
+}
+
+.description {
+    color: #9cb5d4;
+}
+
+hr {
+    border-color: lightgray;
+}
+
+table.feature-list {
+    background-color: #f9f9f9;
+}
+
+table.feature-list td {
+    padding: 18px;
+    border-bottom: 1px solid #ededed;
+}
+
+.meet-our-reps {
+    background-color: #f7f7f7;
+}
+
+.meet-our-appoint-setters {
+    background-color: #f7f7f7;
+}
+
+/* override */
+.navbar-header {
+    padding-bottom: 8px;
+}
+
+/* footer */
+.foot-title {
+    color: #F0903C;font-weight: 700;margin:5px 0;font-family:MyriadPro-Regular;font-size: 18px;letter-spacing:0;line-height:35px
+}

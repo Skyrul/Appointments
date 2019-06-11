@@ -1,0 +1,215 @@
+html,body{margin:0;padding:0}@font-face{font-family:'MyriadPro-Regular';font-style:normal;font-weight:normal;src:local('Myriad Pro Regular'),url('../fonts/MYRIADPRO-REGULAR.woff') format('woff')}@font-face{font-family:'MyriadPro-Light';font-style:normal;font-weight:normal;src:local('Myriad Pro Light'),url('../fonts/MyriadPro-Light.woff') format('woff')}@font-face{font-family:'MyriadPro-Semibold';font-style:normal;font-weight:normal;src:local('Myriad Pro Semibold'),url('../fonts/MYRIADPRO-SEMIBOLD.woff') format('woff')}@font-face{font-family:'MyriadPro-Bold';font-style:normal;font-weight:normal;src:local('Myriad Pro Bold'),url('../fonts/MYRIADPRO-BOLD.woff') format('woff')}.header{width:90vw;padding:0 5vh;height:94px;display:flex;justify-content:space-between;align-items:center;margin:0 auto}
+.blog{
+    background-color: #f7f7f7;
+}
+.col-md-2{
+    width: 11%;
+    display: inline-block;
+}
+.col-md-3{
+    width: 24%;
+    display: inline-block;
+}
+.col-md-4{
+    width: 32%;
+     display: inline-block;
+}
+.col-md-5{
+    width: 45%;
+    display: inline-block;
+}
+.col-md-6{
+    width: 47%;
+    display: inline-block;
+}
+.col-md-8{
+    width:  65%;
+    display: inline-block;
+}
+.col-md-10{
+    width: 79%;
+}
+.col-md-12{
+    width: 100%;
+}
+.blog-intro{
+    padding: 4% 5%;
+}
+.blog-Headtext,.blog-caption span,.blog-caption p, .blog-implementation span, .blog-implementation p, .blog-commision a, .btn-orange, .blog-commision span, .blog-talkTo span{
+    font-family: 'Helvetica';
+}
+.blog-Headtext{
+    font-size: 44px;
+    color: #fff;
+}
+.blog-content{
+    padding: 5% 5%;
+}
+.img-blog{
+    width: 100%;
+}
+.blog-caption{
+    background-color: #fff;
+    padding: 5%;
+    margin-top: -5px;
+    margin-bottom: 5%;
+}
+.blog-caption span{
+    font-size: 34.0px;
+    text-align: left;
+    line-height: 50.0px;
+}
+.blog-caption p{
+    font-size: 18.0px;
+    color: rgba(113, 113, 113, 1.0);
+    text-align: left;
+    line-height: 28.0px;
+}
+.blog-implementation span{
+    font-size: 24.0px;
+    color: rgba(40, 40, 40, 1.0);
+    text-align: left;
+    line-height: 30.0px;
+}
+.blog-divider{
+    vertical-align: top;
+}
+.blog-implementation p, .blog-implementation > p > a {
+    font-size: 16.0px;
+    color: rgba(10, 71, 118, 1.0);
+    text-align: left;
+    line-height: 22.0px;
+}
+.blog-implementation{
+    border: 1px solid #134a75;
+    margin-left: 20px;
+    padding: 5% 20% 5% 5%;
+}
+.blog-commision{
+    background-color: #09426d;
+    margin-left: 20px;
+    padding: 5% 10% 5% 5%;
+    margin-top: 20px;
+}
+.blog-commision span{
+    font-size: 24.0px;
+    color: rgba(255, 255, 255, 1.0);
+    text-align: left;
+    line-height: 30.0px;
+}
+.blog-talkTo{
+    margin-left: 20px;
+    padding: 5% 10% 5% 5%;
+    margin-top: 20px;
+}
+.blog-talkTo span{
+    font-size: 24.0px;
+    color: #000;
+    text-align: left;
+    line-height: 30.0px;
+}
+.btn-orange{
+    font-weight: 400;
+}
+
+/*READ MORE CSS*/
+.read-more-state {
+  display: none;
+}
+
+.read-more-target {
+  opacity: 0;
+  max-height: 0;
+  font-size: 0;
+  transition: .25s ease;
+}
+
+.read-more-state:checked ~ .read-more-wrap .read-more-target {
+  opacity: 1;
+  font-size: inherit;
+  max-height: 999em;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+  content: 'Show more';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+  content: 'Show less';
+}
+
+.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 .5em;
+  color: #666;
+  font-size: .9em;
+  line-height: 2;
+  border: 1px solid #ddd;
+  border-radius: .25em;
+}
+
+/*END*/
+@media (max-height: 800px) and (max-width: 1024px){
+    .blog-implementation {
+        padding: 5% 10% 5% 5%;
+    }
+    .btn-orange{
+        font-size: 12px;
+    }
+    .col-md-10 {
+        width: 70%;
+    }
+}
+@media (max-height: 736px) and (max-width: 414px){
+    .col-md-8, .col-md-4{
+        width: 100%;
+    }
+}
+@media (max-height: 731px) and (max-width: 411px){
+    .col-md-8, .col-md-4{
+        width: 100%;
+    }
+}
+@media (max-height: 568px) and (max-width: 320px){
+    .blog-caption span {
+        font-size: 25px;
+    }
+    .blog-caption p {
+        font-size: 16px;
+    }
+    .blog-implementation span, .blog-commision span, .blog-talkTo span {
+        font-size: 20px;
+    }
+    .col-md-10 {
+        width: 85%;
+    }
+}
+
+.blog-single {
+    color: black !important;
+}
+
+.blog-single p {
+    color: black !important;
+}
+
+.blog-single h1 {
+    text-align: left !important;
+    color: black !important;
+}
+
+.blog-single ul {
+    font-family:'MyriadPro-Regular';
+    font-style:normal;
+}
+
+.blog-single ol {
+    font-family:'MyriadPro-Regular';
+    font-style:normal;
+}
+
+.container-fluid {
+    margin-left: 100px;
+    margin-right: 100px;
+}

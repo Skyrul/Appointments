@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="31px" viewBox="0 0 19 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>bell</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="engagex" transform="translate(-931.000000, -1691.000000)">
+            <g id="bell" transform="translate(932.167969, 1692.476562)">
+                <circle id="Oval" stroke="#0A4776" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="8.41935484" cy="1.87096774" r="1.87096774"></circle>
+                <path d="M8.41935484,3.97580645 L8.41935484,9.82258065" id="Path" stroke="#0A4776" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M14.9677419,16.3709677 C14.9677419,12.7543934 12.0359292,9.82258065 8.41935484,9.82258065 C4.80278051,9.82258065 1.87096774,12.7543934 1.87096774,16.3709677 L1.87096774,20.1129032 C1.87096774,20.1129032 1.87096774,21.2541935 0.979919355,21.75 C0.385291139,22.0650474 0.00965553756,22.6791533 0,23.3520161 L0,23.8548387 C0,24.8881457 0.837660791,25.7258065 1.87096774,25.7258065 L14.9677419,25.7258065 C16.0010489,25.7258065 16.8387097,24.8881457 16.8387097,23.8548387 L16.8387097,23.3520161 C16.8290541,22.6791533 16.4534185,22.0650474 15.8587903,21.75 C14.9677419,21.2541935 14.9677419,20.1129032 14.9677419,20.1129032 L14.9677419,16.3709677 Z" id="Path" stroke="#0A4776" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#0A4776" cx="8.41935484" cy="27.1290323" r="1.87096774"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,490 @@
+.pricing{
+    background-color: #f7f7f7;
+    font-family:'MyriadPro-Regular';
+}
+.col-md-2{
+    width: 11%;
+    display: inline-block;
+}
+.col-md-3{
+    width: 30%;
+    display: inline-block;
+}
+.col-md-4{
+    width: 32%;
+     display: inline-block;
+}
+.col-md-5{
+    width: 45%;
+    display: inline-block;
+}
+.col-md-6{
+    width: 49%;
+    display: inline-block;
+}
+.col-md-8{
+    width:  60%;
+    display: inline-block;
+}
+.col-md-10{
+    width: 79%;
+}
+.col-md-12{
+    width: 100%;
+}
+
+.pricing-headtext{
+    padding: 10% 5% 5% 5%;
+    font-family:'MyriadPro-Regular';
+    font-size : 44.0px;
+    color :#0a4776;
+    text-align : center;
+    line-height : 22.0px;
+}
+
+.price-info{
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #07365A;
+    padding: 1%;
+    border: 1px solid #07365A;
+    border-radius: 20px 20px 0px 0px;
+    position: relative;
+}
+.price-info span, .price-month span, table.tbl-pricing.col-md-12 >tbody> tr > td span, table.tbl-pricing.col-md-12 >tbody> tr > td label,.col-md-8 p,.package-type-headtext span, .package-type-headtext p, .why-package-headtxt span,.why-package-subtxt p{
+    font-family: 'Helvetica';
+}
+.price-info span, .price-month span{
+    color: #fff;
+    font-size: 19px;
+    line-height: 23px;
+    font-weight: 400;
+}
+.price-month{
+    padding-top: 1%;
+    margin-left: 5px;
+    background-color: #0A4776;
+    width: 14%;
+    height: 33px;
+    position: absolute;
+}
+div.price-month:nth-child(2){
+    top:58%;
+    left: 37.5%;
+    right:100px;
+}
+div.price-month:nth-child(3){
+    top:58%;
+    left: 51.7%;
+    right:100px;
+}
+div.price-month:nth-child(4){
+    top:58%;
+    left: 65.8%;
+    right:100px;
+}
+div.price-month:nth-child(5){
+    top:58%;
+    left: 80%;
+    right:100px;
+}
+.space-free{
+    margin-right: 120px;
+}
+.tbl-pricing{
+    padding-top: 2%;
+    margin-left: -70px;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+/*table.tbl-pricing.col-md-12 >tbody> tr>td:nth-child(1){
+    text-align: left;
+    padding-left: 10%;
+}*/
+table.tbl-pricing.col-md-12 >tbody> tr>td:nth-child(1) {
+    width: 96px;
+    text-align: left;
+    padding-left: 10%;
+    margin-right: 10px;
+}
+table.tbl-pricing.col-md-12 >tbody> tr > td{
+    width: 14.3%;
+    border-bottom: 2px solid #f7f7f7;
+    border-left: 2px solid #f7f7f7;
+}
+table.tbl-pricing.col-md-12 >tbody> tr > td span{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 51px;
+    color: #282828;
+}
+table.tbl-pricing.col-md-12 >tbody> tr > td label{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #f0903c;
+}
+.img-pricing-mark{
+    width: 12%;
+}
+.talk-to-section{
+    padding: 0px 5% 0px 5%;
+}
+.col-md-8 p{
+    color: #222;
+}
+.talk-to-button{
+    padding-left: 90px;
+}
+.package-type-headtext span{
+    font-size: 41px;
+    font-weight: 400;
+    color: #0a4776;
+}
+.package-type-headtext p{
+    color: #969696;
+    font-size:16px;
+    font-weight: 400;
+}
+.package-type{
+    padding: 0% 20% 2% 20%;
+}
+.package-type-2{
+    padding: 2% 15% 2% 15%;
+}
+
+.why-package-headtxt{
+    background-color: #07365A;
+    padding: 10px;
+    text-align: center;
+}
+.why-package-headtxt span{
+    font-size: 23px;
+    line-height: 34px;
+    color: #fff;
+}
+.why-package-subtxt{
+    background-color: #eee;
+}
+.why-package-subtxt p{
+    font-size: 15px;
+    color: #282828;
+    margin-top:0px;
+    text-align: center;
+}
+.tbl-pricing>tbody{
+    background-color: #fff;
+}
+.for-mobile{
+    display: none;
+}
+.tbl-pricing-header{
+    text-align: center;
+}
+.tbl-pricing>thead>tr>th:nth-child(1), .tbl-pricing>thead>tr:nth-child(2)>th:nth-child(1){
+    background-color:transparent;
+}
+
+.tbl-pricing>thead>tr:nth-child(1)>th{
+    border-left: 5px solid #f7f7f7;
+    border-right: 5px solid #f7f7f7;
+    padding: 1.2%;
+    border-radius: 20px 20px 0px 0px;
+    position:relative;
+}
+.tbl-pricing>thead>tr:nth-child(2)>th{
+    padding: 1%;
+    background-color:#0A4776;
+    top: -13px;
+    position: relative;
+}
+.tbl-pricing>thead>tr>th{
+    background-color:#07365A;
+    color: #fff;
+}
+/*Responsive*/
+@media (max-height: 1080px) and (max-width: 1920px){
+    div.price-month:nth-child(2){
+        top:44%;
+    }
+    div.price-month:nth-child(3){
+        top:44%;
+    }
+    div.price-month:nth-child(4){
+        top:44%;
+    }
+    div.price-month:nth-child(5){
+        top:44%;
+    }
+}
+@media (max-height: 900px) and (max-width: 1440px){
+    .for-mobile{
+        display: none;
+    }
+    div.price-month:nth-child(2){
+        top:44%;
+    }
+    div.price-month:nth-child(3){
+        top:44%;
+    }
+    div.price-month:nth-child(4){
+        top:44%;
+    }
+    div.price-month:nth-child(5){
+        top:44%;
+    }
+}
+@media screen and (max-width: 1366px){
+    div.price-month:nth-child(2){
+        top:58%;
+    }
+    div.price-month:nth-child(3){
+        top:58%;
+    }
+    div.price-month:nth-child(4){
+        top:58%;
+    }
+    div.price-month:nth-child(5){
+        top:58%;
+    }
+}
+@media screen and (max-width: 1112px){
+    div.price-month:nth-child(2){
+        top:49.5%;
+        left: 37%;
+    }
+    div.price-month:nth-child(3){
+        top:49.5%;
+        left: 51.4%;
+    }
+    div.price-month:nth-child(4){
+        top:49.5%;
+        left: 66%;
+    }
+    div.price-month:nth-child(5){
+        top:49.5%;
+        left: 80.5%;
+    }
+    .price-info span, .price-month span {
+        font-size: 16px;
+    }
+    .col-md-8 {
+        width: 55%;
+    }
+    .col-md-5 {
+        width: 50%
+    }
+    .why-package-headtxt span {
+        font-size: 21px;
+    }
+}
+@media screen and (max-width: 1025px){
+    .price-info span, .price-month span{
+        font-size: 14px;
+    }
+    div.price-month:nth-child(2){
+        top:41%;
+        left: 36.8%;
+    }
+    div.price-month:nth-child(3){
+        top:41%;
+        left: 51.4%;
+    }
+    div.price-month:nth-child(4){
+        top:41%;
+        left: 66%;
+    }
+    div.price-month:nth-child(5){
+        top:41%;
+        left: 80.5%;
+    }
+    .tbl-pricing {
+        margin-left: -58px;
+    }
+}
+
+@media (max-height: 600px) and (max-width: 1024px){
+    div.price-month:nth-child(2){
+        top:54%;
+    }
+    div.price-month:nth-child(3){
+        top:54%;
+    }
+    div.price-month:nth-child(4){
+        top:54%;
+    }
+    div.price-month:nth-child(5){
+        top:54%;
+    }
+    .why-package-headtxt span{
+        font-size: 18px;
+    }
+    .col-md-8{
+        width: 55%;
+    }
+    .col-md-5{
+        width: 60%;
+    }
+    .col-md-3 {
+        width: 23%;
+    }
+    .col-md-8 p {
+        font-size: 12px;
+    }
+}
+@media(max-height:812px) and (max-width:375px){
+    .tbl-pricing,.pricing-per-cust,.price-per-month{
+        display: none;
+    }
+    .for-mobile{
+        display: block;
+    }
+    /*mobile css*/
+    .price-cust-mob{
+        background-color:#07365A;
+        margin-left:15%;
+        margin-right: 15%;
+        padding: 5px;
+        border-radius: 10px 10px 0px 0px;
+    }
+    .price-cust-mob span, .price-month-mob span{
+        color: #fff;
+        font-size: 20px;
+    }
+    .price-month-mob{
+        background-color: #0A4776;
+        margin: 0px 10% 0px 10%;
+    }
+    table.col-md-12.tbl-for-mob{
+        padding: 0px 20px 20px 20px;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr>td span{
+        font-size: 20px;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr>td{
+        border-bottom: 1px solid #f7f7f7;
+        border-left: 1px solid #f7f7f7;
+        border-right: 1px solid #f7f7f7;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr:nth-child(even){
+        background-color:#daf7f5;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr>td:nth-child(1){
+        padding-left: 10px;
+        text-align: left;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr>td:nth-child(2){
+        text-align: center;
+    }
+    .img-mark-mob{
+        width:50%;
+    }
+    .col-md-8{
+        width: 100%;
+    }
+    .col-md-3{
+        width: 100%;
+    }
+    .col-md-5 {
+        width: 87%;
+    }
+    .talk-to-button{
+        padding-left: 0px;
+    }
+    .col-md-6{
+        width: 100%;
+    }
+    .package-type-headtext span {
+        font-size: 30px;
+    }
+    .package-type {
+        padding: 5% 5% 2% 5%;
+    }
+    .package-type-2 {
+        padding: 2% 5% 2% 5%;
+    }
+}
+@media (max-height: 736px) and (max-width:414px){
+    .tbl-pricing,.pricing-per-cust,.price-per-month{
+        display: none;
+    }
+    .for-mobile{
+        display: block;
+    }
+    /*mobile css*/
+    .price-cust-mob{
+        background-color:#07365A;
+        margin-left:15%;
+        margin-right: 15%;
+        padding: 5px;
+        border-radius: 10px 10px 0px 0px;
+    }
+    .price-cust-mob span, .price-month-mob span{
+        color: #fff;
+        font-size: 20px;
+    }
+    .price-month-mob{
+        background-color: #0A4776;
+        margin: 0px 10% 0px 10%;
+    }
+    table.col-md-12.tbl-for-mob{
+        padding: 0px 20px 20px 20px;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr>td span{
+        font-size: 20px;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr>td{
+        border-bottom: 1px solid #f7f7f7;
+        border-left: 1px solid #f7f7f7;
+        border-right: 1px solid #f7f7f7;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr:nth-child(even){
+        background-color:#daf7f5;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr>td:nth-child(1){
+        padding-left: 10px;
+        text-align: left;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr>td:nth-child(2){
+        text-align: center;
+    }
+    .img-mark-mob{
+        width:50%;
+    }
+    .col-md-8{
+        width: 100%;
+    }
+    .col-md-3{
+        width: 100%;
+    }
+    .col-md-5 {
+        width: 87%;
+    }
+    .talk-to-button{
+        padding-left: 0px;
+    }
+    .col-md-6{
+        width: 100%;
+    }
+    .package-type-headtext span {
+        font-size: 30px;
+    }
+    .package-type {
+        padding: 5% 5% 2% 5%;
+    }
+    .package-type-2 {
+        padding: 2% 5% 2% 5%;
+    }
+}
+
+
+@media (max-height:480px) and (max-width:320px){
+    .price-cust-mob span, .price-month-mob span{
+        color: #fff;
+        font-size: 18px;
+    }
+    table.col-md-12.tbl-for-mob>tbody>tr>td span{
+        font-size: 18px;
+    }
+}

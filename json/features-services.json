@@ -1,0 +1,54 @@
+{
+  "feature-services": [
+     {
+        "picture": "Guaranteed-appointment.png",
+        "title": "Guaranteed Appointment Packages",
+        "desc": " Engagex is the only appointment setter that will guarantee the number of appointments to be set for you in a month. Others try, but we deliver"
+     },
+     {
+        "picture": "caller-id.png",
+        "title": "Caller ID Matching",
+        "desc": "When we call, your customers will see your office name and number in their caller ID – making us a seamless extension of your agency."
+     },
+     {
+        "picture": "after-hours.png",
+        "title": "After Hours Calling",
+        "desc": "The most effective time to reach your customer is when your office is closed. Our team works throughout the day and into the evening to ensure we reach as many clients as possible."
+     },
+     {
+        "picture": "appointment-reminder.png",
+        "title": "Appointment Reminder Calls",
+        "desc": "Engagex is the only appointment setter that will guarantee the number of appointments to be set for you in a month. Others try, but we deliver."
+     },
+     {
+        "picture": "generous-no-show-policy.png",
+        "title": "Generous No-Show Policy",
+        "desc": "Even with a confirmed appointment set, sometimes customers don’t show up. We understand. That’s why we’ll replace up to 3 no-shows each month regardless of which package you choose."
+     },
+     {
+        "picture": "english-and-spanish.png",
+        "title": "English and Spanish",
+        "desc": "We’ve got a bilingual team. Just indicate which language you would like us to use and we’ll set your appointments accordingly."
+     },
+    {
+        "picture": "no-long-term.png",
+        "title": "No Long-Term Contracts",
+        "desc": "After 90 days, your Engagex service contract converts to a month-to-month commitment."
+    },
+      {
+        "picture": "dynamic-agent-portal.png",
+        "title": "Dynamic Agent Portal",
+        "desc": "From quickly setting your availability on your calendar to pulling robust reports – our agent portal gives you complete control and transparency over your service."
+    },
+      {
+        "picture": "3-attempt.png",
+        "title": "3 Attempts per Customer",
+        "desc": "We don’t want to overcall. If we are unsuccessful in reaching your customer on the first try, our system will vary the time and day that subsequent calls are made – giving us the best chance of success."
+    },
+      {
+        "picture": "retention-alert.png",
+        "title": "Retention Alert Emails",
+        "desc": "Your appointment setters are trained to pick up on any dissatisfaction your customer may express about their policies during our call. When they do, our system will send you a retention alert email so you can follow up and save the business."
+    }
+   ]
+}

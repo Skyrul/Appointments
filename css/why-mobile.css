@@ -1,0 +1,1021 @@
+.why {
+    width : 100%;
+    height : 100vh;
+    min-height: 2056px;
+    position : relative;
+    overflow : hidden;
+    margin : 0px;
+    margin-top: -2%;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  a {
+    text-decoration : none;
+  }
+  div {
+    -webkit-text-size-adjust: none;
+  }
+  div {
+    -webkit-text-size-adjust: none;
+  }
+  .why .rectangle2 {
+    background-color : rgba(255, 255, 255, 1.0);
+    top : 0px;
+    height : 94px;
+    width : 1460px;
+    position : absolute;
+    margin : 0;
+    left : 0px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .whypolicyreviewss {
+    background-color : rgba(255,255,255,0.0);
+    top : 38px;
+    height : auto;
+    width : 822px;
+    position : absolute;
+    margin : 0;
+    left : 543px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular'; */
+    font-family:'MyriadPro-Regular';
+    font-size : 18.0px;
+    color : rgba(44, 44, 44, 1.0);
+    text-align : right;
+    line-height : 22.0px;
+  }
+  .why .rectangle {
+    background-color : rgba(10, 71, 118, 1.0);
+    top : 2023px;
+    height : 483px;
+    width : 1467px;
+    position : absolute;
+    margin : 0;
+    left : -3px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .rectangle3 {
+    background-color : rgba(234, 148, 48, 1.0);
+    top : 2245px;
+    height : 40px;
+    width : 182px;
+    position : absolute;
+    margin : 0;
+    left : 120px;
+    border-radius : 21px;
+    border-style : solid;
+    border-width : 1px;
+    border-color : rgba(213, 132, 38, 1.0);
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .contactus {
+    background-color : rgba(255,255,255,0.0);
+    top : 2258px;
+    height : auto;
+    width : 127px;
+    position : absolute;
+    margin : 0;
+    left : 128px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular'; */
+    font-family:'MyriadPro-Regular';
+    font-size : 20.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : right;
+    line-height : 24.0px;
+  }
+  .why .rectangle31 {
+    background-color : rgba(234, 148, 48, 1.0);
+    top : 1434px;
+    height : 41px;
+    width : 183px;
+    position : absolute;
+    margin : 0;
+    left : 626px;
+    border-radius : 21px;
+    border-style : solid;
+    border-width : 1px;
+    border-color : rgba(213, 132, 38, 1.0);
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .learnmore {
+    background-color : rgba(255,255,255,0.0);
+    top : 1448px;
+    height : auto;
+    width : 127px;
+    position : absolute;
+    margin : 0;
+    left : 656px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular'; */
+    font-family:'MyriadPro-Regular';
+    font-size : 20.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : center;
+    line-height : 24.0px;
+  }
+  .why .readyforthenexts {
+    background-color : rgba(255,255,255,0.0);
+    top : 2105px;
+    height : auto;
+    width : 480px;
+    position : absolute;
+    margin : 0;
+    left : 119px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular'; */
+    font-family:'MyriadPro-Regular';
+    font-size : 41.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : left;
+    line-height : 50.0px;
+  }
+  .why .aboutcontactservic {
+    background-color : rgba(255,255,255,0.0);
+    top : 2112px;
+    height : auto;
+    width : 184px;
+    position : absolute;
+    margin : 0;
+    left : 538px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular'; */
+    font-family:'MyriadPro-Regular';
+    font-size : 20.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : left;
+    line-height : 35.0px;
+  }
+  .why .copyright2018allr {
+    background-color : rgba(255,255,255,0.0);
+    top : 2387px;
+    height : auto;
+    width : 278px;
+    position : absolute;
+    margin : 0;
+    left : 124px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    opacity : 0.5;
+    /* /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular'; */
+    font-family:'MyriadPro-Regular';
+    font-size : 13.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : left;
+    line-height : 35.0px;
+  }
+  .why .ourcontactservices {
+    background-color : rgba(255,255,255,0.0);
+    top : 2112px;
+    height : auto;
+    width : 184px;
+    position : absolute;
+    margin : 0;
+    left : 748px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 20.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : left;
+    line-height : 35.0px;
+  }
+  .why .aboutcontactservic1 {
+    background-color : rgba(255,255,255,0.0);
+    top : 2112px;
+    height : auto;
+    width : 184px;
+    position : absolute;
+    margin : 0;
+    left : 963px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 20.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : left;
+    line-height : 35.0px;
+  }
+  .why .aboutcontactservic2 {
+    background-color : rgba(255,255,255,0.0);
+    top : 2112px;
+    height : auto;
+    width : 184px;
+    position : absolute;
+    margin : 0;
+    left : 1198px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 20.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : left;
+    line-height : 35.0px;
+  }
+  .why .group2 {
+    background-color : rgba(255,255,255,0.0);
+    top : 1540px;
+    height : 48px;
+    width : 52px;
+    position : absolute;
+    margin : 0;
+    left : 1437px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .group2 .shape {
+    background-color : rgba(255,255,255,0.0);
+    top : 0px;
+    height : 48px;
+    width : 52px;
+    position : absolute;
+    margin : 0;
+    left : 0px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .group2 .shape1 {
+    background-color : rgba(255,255,255,0.0);
+    top : 15px;
+    height : 27px;
+    width : 52px;
+    position : absolute;
+    margin : 0;
+    left : 0px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .line {
+    background-color : rgba(255,255,255,0.0);
+    top : 2361px;
+    height : 3px;
+    width : 1218px;
+    position : absolute;
+    margin : 0;
+    left : 119px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .bitmap {
+    background-color : rgba(255,255,255,0.0);
+    top : 2392px;
+    height : 28px;
+    width : 15px;
+    position : absolute;
+    margin : 0;
+    left : 1144px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .bitmap1 {
+    background-color : rgba(255,255,255,0.0);
+    top : 2392px;
+    height : 27px;
+    width : 27px;
+    position : absolute;
+    margin : 0;
+    left : 1206px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .bitmap2 {
+    background-color : rgba(255,255,255,0.0);
+    top : 2389px;
+    height : 36px;
+    width : 36px;
+    position : absolute;
+    margin : 0;
+    left : 1263px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .engagexappointmentslogo5 {
+    background-color : rgba(255,255,255,0.0);
+    top : 17px;
+    height : 61px;
+    width : 327px;
+    position : absolute;
+    margin : 0;
+    left : 50px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .neverdonepolicyre {
+    background-color : rgba(255,255,255,0.0);
+    top : 1199px;
+    height : auto;
+    width : 624px;
+    position : absolute;
+    margin : 0;
+    left : 408px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 41.0px;
+    color : rgba(10, 71, 118, 1.0);
+    text-align : center;
+    line-height : 52.0px;
+  }
+  .why .signupforourfree {
+    background-color : rgba(255,255,255,0.0);
+    top : 1339px;
+    height : auto;
+    width : 741px;
+    position : absolute;
+    margin : 0;
+    left : 350px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 16.0px;
+    color : rgba(40, 40, 40, 1.0);
+    text-align : center;
+    line-height : 28.0px;
+  }
+  .why .group11 {
+    background-color : rgba(10, 71, 118, 1.0);
+    top: 14px;
+    height: 497px;
+    width : 1465px;
+    position : absolute;
+    margin : 0;
+    left : 0px;
+    overflow : hidden;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .group11 .mask {
+    background-color : rgba(10, 71, 118, 1.0);
+    top : 0px;
+    height : 459px;
+    width : 1465px;
+    position : absolute;
+    margin : 0;
+    left : 0px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    opacity : 0.95;
+  }
+  .why .group11 .group112 {
+    background-color : rgba(255,255,255,0.0);
+    top : -128px;
+    height : 1014px;
+    width : 1415px;
+    position : absolute;
+    margin : 0;
+    left : -612px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    opacity : 0.66;
+  }
+  .why .group11 .group112 .combinedshape {
+    background-color : rgba(255,255,255,0.0);
+    top : 1px;
+    height : 1012px;
+    width : 1415px;
+    position : relative;
+    margin : 0;
+    left : 0px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .group11 .group111 {
+    background-color : rgba(255,255,255,0.0);
+    top : -617px;
+    height : 1122px;
+    width : 1568px;
+    position : absolute;
+    margin : 0;
+    left : 513px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    opacity : 0.53;
+  }
+  .why .group11 .group111 .combinedshape {
+    background-color : rgba(255,255,255,0.0);
+    top : 0px;
+    height : 1121px;
+    width : 1567px;
+    position : relative;
+    margin : 0;
+    left : 0px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .rectangle1 {
+    background-color : rgba(246, 247, 249, 1.0);
+    top : 704px;
+    height: 462px;
+    width: 320px;
+    position : absolute;
+    margin : 0;
+    left: 1px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .asaninsuranceagen {
+    background-color : rgba(255,255,255,0.0);
+    top : 243px;
+    height : auto;
+    width : 573px;
+    position : absolute;
+    margin : 0;
+    left : 117px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 16.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : left;
+    line-height : 28.0px;
+  }
+  .why .whypolicyreviews {
+    background-color : rgba(255,255,255,0.0);
+    top : 166px;
+    height : auto;
+    width : 884px;
+    position : absolute;
+    margin : 0;
+    left : 117px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 44.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : left;
+    line-height : 61.0px;
+  }
+  .why .rectangle4 {
+    background-color : rgba(255,255,255,0.0);
+    top : 642px;
+    height : 62px;
+    width : 287px;
+    position : absolute;
+    margin : 0;
+    left : 117px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .group3 {
+    background-color : rgba(255,255,255,0.0);
+    top: 1176px;
+    height : 43px;
+    width: 308px;
+    position : absolute;
+    margin : 0;
+    left: 5px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .group3 .rectangle33 {
+    background-color : rgba(240, 144, 60, 1.0);
+    top : 0px;
+    height: 60px;
+    width: 477px;
+    position : absolute;
+    margin : 0;
+    left : 0px;
+    border-radius : 21px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .group3 .learnmoreabouteng {
+    background-color : rgba(255,255,255,0.0);
+    top : 14px;
+    height : auto;
+    width : 419px;
+    position : absolute;
+    margin : 0;
+    left : 25px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 16.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : center;
+    letter-spacing : 1.4px;
+    line-height : 19.0px;
+  }
+  .why .rectangle5 {
+    background-color : rgba(255,255,255,0.0);
+    top : 642px;
+    height : 62px;
+    width : 287px;
+    position : absolute;
+    margin : 0;
+    left : 414px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .rectangle6 {
+    background-color : rgba(255,255,255,0.0);
+    top : 642px;
+    height : 62px;
+    width : 287px;
+    position : absolute;
+    margin : 0;
+    left : 711px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .retention {
+    background-color : rgba(255,255,255,0.0);
+    top : 663px;
+    height : auto;
+    width : auto;
+    position : absolute;
+    margin : 0;
+    left : 167px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 24.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : left;
+    line-height : 29.0px;
+  }
+  .why .crosssell {
+    background-color : rgba(255,255,255,0.0);
+    top : 663px;
+    height : auto;
+    width : auto;
+    position : absolute;
+    margin : 0;
+    left : 466px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 24.0px;
+    color : rgba(10, 71, 118, 1.0);
+    text-align : left;
+    line-height : 29.0px;
+  }
+  .why .referrals {
+    background-color : rgba(255,255,255,0.0);
+    top : 663px;
+    height : auto;
+    width : auto;
+    position : absolute;
+    margin : 0;
+    left : 734px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 24.0px;
+    color : rgba(10, 71, 118, 1.0);
+    text-align : left;
+    line-height : 29.0px;
+  }
+  .why .iiabalistscustomer {
+    background-color : rgba(255,255,255,0.0);
+    top : 829px;
+    height : auto;
+    width: 320px;
+    position : absolute;
+    margin : 0;
+    left: 28px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */
+    font-family:'MyriadPro-Regular';
+    font-size: 13px;
+    color : rgba(40, 40, 40, 1.0);
+    text-align : left;
+    line-height : 41.0px;
+  }
+  .why .iiabalistscustomer .span1 {
+  }
+  .why .iiabalistscustomer .span2 {
+    color : rgba(23, 81, 126, 1.0);
+  }
+  .why .iiabalistscustomer .span3 {
+  }
+  .why .iiabalistscustomer .span4 {
+    color : rgba(10, 71, 118, 1.0);
+  }
+  .why .iiabalistscustomer .span5 {
+  }
+  .why .iiabalistscustomer .span6 {
+    color : rgba(10, 71, 118, 1.0);
+  }
+  .why .iiabalistscustomer .span7 {
+  }
+  .why .iiabalistscustomer .span8 {
+    color : rgba(10, 71, 118, 1.0);
+  }
+  .why .iiabalistscustomer .span9 {
+  }
+  .why .iiabalistscustomer .span10 {
+    color : rgba(10, 71, 118, 1.0);
+  }
+  .why .iiabalistscustomer .span11 {
+  }
+  .why .howdoesretentionh {
+    background-color : rgba(255,255,255,0.0);
+    top: 711px;
+    height : auto;
+    width: 320px;
+    position : absolute;
+    margin : 0;
+    left: 18px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */
+    font-family:'MyriadPro-Regular';
+    font-size: 29px;
+    color : rgba(10, 71, 118, 1.0);
+    text-align : left;
+    line-height : 52.0px;
+  }
+  .why .oval {
+    background-color : rgba(255,255,255,0.0);
+    top : 840px;
+    height : 7px;
+    width : 7px;
+    position : absolute;
+    margin : 0;
+    left : 171px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .oval1 {
+    background-color : rgba(255,255,255,0.0);
+    top : 880px;
+    height : 7px;
+    width : 7px;
+    position : absolute;
+    margin : 0;
+    left : 171px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .oval2 {
+    background-color : rgba(255,255,255,0.0);
+    top : 921px;
+    height : 7px;
+    width : 7px;
+    position : absolute;
+    margin : 0;
+    left : 171px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .oval3 {
+    background-color : rgba(255,255,255,0.0);
+    top : 962px;
+    height : 7px;
+    width : 7px;
+    position : absolute;
+    margin : 0;
+    left : 171px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .path14 {
+    background-color : rgba(255,255,255,0.0);
+    top : 704px;
+    height : 8px;
+    width : 28px;
+    position : absolute;
+    margin : 0;
+    left : 168px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .line6 {
+    background-color : rgba(255,255,255,0.0);
+    top : 632px;
+    height : 68px;
+    width : 2px;
+    position : absolute;
+    margin : 0;
+    left : 1539px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .rectangle7 {
+    background-color : rgba(246, 247, 249, 1.0);
+    top : 1565px;
+    height : 466px;
+    width : 1466px;
+    position : absolute;
+    margin : 0;
+    left : -3px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+  }
+  .why .getacustompolicy {
+    background-color : rgba(255,255,255,0.0);
+    top : 1640px;
+    height : auto;
+    width : 668px;
+    position : absolute;
+    margin : 0;
+    left : 386px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 41.0px;
+    color : rgba(10, 71, 118, 1.0);
+    text-align : center;
+    line-height : 52.0px;
+  }
+  .why .rectangle32 {
+    /* background-color : rgba(234, 148, 48, 1.0); */
+    top : 1899px;
+    height : 41px;
+    width : 382px;
+    position : absolute;
+    margin : 0;
+    left : 529px;
+    /* border-radius : 21px;
+    border-style : solid;
+    border-width : 1px; */
+    /* border-color : rgba(213, 132, 38, 1.0); */
+    /* -ms-transform : rotate(0deg); */
+   /* IE 9 */
+    /*-webkit-transform : rotate(0deg);*/
+   /* Chrome, Safari, Opera */
+    /*transform : rotate(0deg); */
+  }
+  .why .getafreecustompo {
+    background-color : rgba(255,255,255,0.0);
+    top : 1913px;
+    height : auto;
+    width : 338px;
+    position : absolute;
+    margin : 0;
+    left : 551px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 20.0px;
+    color : rgba(255, 255, 255, 1.0);
+    text-align : center;
+    line-height : 24.0px;
+  }
+  .why .doyouwanttoknow {
+    background-color : rgba(255,255,255,0.0);
+    top : 1717px;
+    height : auto;
+    width : 741px;
+    position : absolute;
+    margin : 0;
+    left : 350px;
+    -ms-transform : rotate(0deg);
+   /* IE 9 */
+    -webkit-transform : rotate(0deg);
+   /* Chrome, Safari, Opera */
+    transform : rotate(0deg);
+    /* font-family : "Helvetica", Helvetica, Arial, serif; */ font-family:'MyriadPro-Regular';
+    font-size : 16.0px;
+    color : rgba(40, 40, 40, 1.0);
+    text-align : center;
+    line-height : 28.0px;
+  }
+  /* .anima-animate-appear prefix for appear animations */
+  .anima-animate-appear {
+    opacity : 0;
+    display : block;
+    -webkit-animation : anima-reveal 0.3s ease-in-out 1 normal forwards;
+    -moz-animation : anima-reveal 0.3s ease-in 1 normal forwards;
+    -o-animation : anima-reveal 0.3s ease-in-out 1 normal forwards;
+    animation : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  }
+  .anima-animate-disappear {
+    opacity : 1;
+    display : block;
+    -webkit-animation : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+    -moz-animation : anima-reveal 0.3s ease-in 1 normal forwards;
+    -o-animation : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+    animation : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  }
+  .anima-animate-nodelay {
+    -webkit-animation-delay: 0;
+    -moz-animation-delay: 0;
+    -o-animation-delay : 0;
+    animation-delay : 0;
+  }
+  @-webkit-keyframes anima-reveal {
+    0% {
+        opacity: 0;
+   }
+    100% {
+        opacity: 1;
+   }
+  }
+  @-moz-keyframes anima-reveal {
+    0% {
+        opacity: 0;
+   }
+    100% {
+        opacity: 1;
+   }
+  }
+  @-o-keyframes anima-reveal {
+    0% {
+        opacity: 0;
+   }
+    100% {
+        opacity: 1;
+   }
+  }
+  @keyframes anima-reveal {
+    0% {
+        opacity: 0;
+   }
+    100% {
+        opacity: 1;
+   }
+  }
+  
+  
+  /* Mobile */
+  
+  @media screen and (max-width: 570px) 
+  {
+      .why .whypolicyreviews {
+        top: 94px;
+        height : auto;
+        width: 876px;
+        position : absolute;
+        margin : 0;
+        left: 7px;
+        font-size: 33px;
+      }
+  
+      .why .asaninsuranceagen {
+        top: 152px;
+        height : auto;
+        width: 225px;
+        position : absolute;
+        margin : 0;
+        left: 14px;
+        font-size: 12px;
+      }
+  }
+  

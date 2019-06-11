@@ -1,0 +1,121 @@
+.faqs{
+    background-color: #f7f7f7;
+}
+.col-md-2{
+    width: 11%;
+    display: inline-block;
+}
+.col-md-3{
+    width: 24%;
+    display: inline-block;
+}
+.col-md-4{
+    width: 32%;
+     display: inline-block;
+}
+.col-md-5{
+    width: 45%;
+    display: inline-block;
+}
+.col-md-6{
+    width: 47%;
+    display: inline-block;
+}
+.col-md-8{
+    width:  65%;
+    display: inline-block;
+}
+.col-md-10{
+    width: 79%;
+}
+.col-md-12{
+    width: 100%;
+}
+.faq-intro{
+    padding: 4% 5%;
+}
+.faqs-content{
+        padding-bottom: 5%;
+}
+.faq-Headtext, .faqs-list a{
+    font-family:MyriadPro-Regular
+}
+.faq-Headtext{
+    font-size: 41.0px;
+    color: #0a4776;
+    text-align: center;
+    line-height: 52.0px;
+}
+.faqs-list{
+    padding:15px 35px;
+    border-radius: 5px;
+    margin-left: 20%;
+    margin-right:20%;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+.faqs-list-subtext{
+    padding:15px 35px;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right:5%;
+    background-color: #fff;
+}
+.faqs-list-subtext{
+        margin-bottom: 20px
+}
+.faqs-list a{
+    font-size: 22.0px;
+    color: rgba(10, 71, 118, 1.0);
+    text-align: left;
+    line-height: 34.0px;
+}
+.faq-list{
+    margin-top: 25px;
+}
+
+.btn-faqs{
+    background-color: transparent;
+    border: 0px;
+    width: 100%;
+}
+.btn-faqs:hover{
+    cursor: pointer;
+}
+.faqs-list-subtext p{
+    overflow: hidden;
+    transition: all .5s ease-in-out;
+}
+
+
+.faqs-list-subtext p{
+    font-size: 16.0px;
+    color: rgba(40, 40, 40, 1.0);
+    text-align: left;
+    line-height: 27.0px;
+}
+/*RESPONSIVE*/
+@media (max-height:736px) and (max-width:414px){
+    .faq-Headtext {
+        font-size: 38px;
+    }
+    .faqs-list {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .faqs-list-subtext {
+        padding: 15px 1px;
+    }
+}
+
+@media (max-height:568px) and (max-width:320px){
+    .faq-Headtext {
+        font-size: 32px;
+    }
+    .faqs-list a {
+        font-size: 18px;
+    }
+    p{
+        font-size: 13px;
+    }
+}

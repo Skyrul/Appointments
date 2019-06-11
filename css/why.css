@@ -1,0 +1,320 @@
+.why {
+  width : 100%;
+  height: auto;
+ min-height: 1656px;
+  position : relative;
+  overflow : hidden;
+  margin : 0px;
+  margin-top: -2%;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.col-md-3{
+    width: 24%;
+    display: inline-block;
+}
+.col-md-4{
+    width: 33.333%;
+     display: inline-block;
+}
+.col-md-5{
+    width: 45%;
+    display: inline-block;
+}
+.col-md-6{
+    width: 50%;
+    display: inline-block;
+}
+.col-md-8{
+    width:  60%;
+}
+.col-md-10{
+    width: 80%;
+}
+/*CSS*/
+p{
+    font-family: 'Helvetica';
+    font-size: 16px;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: 30px;
+    font-weight: 400px;
+    
+}
+span, h1,h3, li, .benefits-button{
+    font-family: 'Helvetica';
+}
+.retention {
+    height: auto;
+    padding-left: 5%;
+    padding-top: 1.7%;
+    padding-bottom: 1.2%;
+}
+.retention>span{
+    font-size : 26px;
+    color : #fff;
+    line-height : 29.0px;
+}
+
+.inactiveTab{
+    color : #0A4776;
+}
+.why-policyreviews{
+    margin-top: 7%;
+    padding: 7% 7% 3% 8%;
+}
+.policyreview-Headtext{
+    font-family:'MyriadPro-Regular';
+    font-size : 44.0px;
+    color :#fff;
+    text-align : right;
+    line-height : 22.0px;
+}
+.benefits-reviews{
+    padding: 5% 12% 5% 7%;
+}
+.benefits-crosssell-text{
+    background-color: #F6F7F9;
+    font-size : 26px;
+    color: #0A4776;
+    line-height : 29.0px;
+    width: 20%;
+    margin-left: -5.5%;
+    padding-left: 5%;
+    padding-top: 1.7%;
+    padding-bottom: 1.1%;
+}
+.benefits-referrals-text-2 {
+    background-color: #F6F7F9;
+    font-size: 26px;
+    color: #0A4776;
+    line-height: 29.0px;
+    width: 17%;
+    margin-left: 0.5%;
+    padding-left: 5%;
+    padding-top: 1.7%;
+    padding-bottom: 1.1%;
+}
+#referrals h1 {
+    text-align: left;
+    color: #0A4776;
+}
+.benefits-referrals-text{
+   background-color: #F6F7F9;
+    font-size : 26px;
+    color: #0A4776;
+    line-height : 29.0px;
+    width: 20%;
+    margin-left: 0.5%;
+    padding-left: 5%;
+    padding-top: 1.7%;
+    padding-bottom: 1.1%; 
+}
+.benefits-body{
+    margin-top: -2%;
+    padding: 2% 4%;
+    background-color: #F6F7F9;
+}
+.benefits-body .col-md-10 > h1{
+    font-weight: 400;
+    color: #0A4776;
+    text-align: left;
+}
+ul>li{
+    font-size: 18px;
+    line-height: 41px;
+    color: #222;
+}
+.blueText{
+    color: #0A4776;
+    
+}
+.btn-orange .col-md-5{
+    font-weight: 400;
+}
+.policy-signup{
+    padding-left: 30%;
+    padding-right:30%;
+}
+.policy-signup > span, .custom-policy-body>div>span{
+    font-size: 35px;
+    line-height: 51px;
+    font-weight: 400;
+    color: #0a4776;
+}
+.policy-signup > p , .custom-policy-body>div>p{
+    color: #222;
+    font-size: 15px;
+}
+.custom-policy{
+    padding: 5% 14% 5% 14%;
+    margin-bottom: 5%;
+}
+.custom-policy-body{
+    padding: 5% 15%;
+    background-color: #F6F7F9;
+}
+
+#crosssell-div{
+    display: none;
+}
+#referral-div{
+    display: none;
+}
+#link-crosssell span:hover, div#link-retention-crosssell:hover{
+    cursor: pointer;
+}
+#link-referral span:hover {
+    cursor: pointer;
+}
+#link-retention span:hover {
+    cursor: pointer;
+}
+.retention-2{
+    height: auto;
+    padding-left: 5%;
+    padding-top: 1.7%;
+    padding-bottom: 2%;
+}
+div#link-retention-crosssell {
+    font-size : 26px;
+    background-color: #F6F7F9;
+    color: #0A4776;
+    line-height: 29.0px;
+}
+.benefits-crosssell-text-2 {
+    background-color: #F6F7F9;
+    font-size: 26px;
+    color: #0A4776;
+    line-height: 29.0px;
+    width: 16%;
+    margin-left: -5.5%;
+    padding-left: 5%;
+    padding-top: 1.7%;
+    padding-bottom: 1.1%;
+}
+/*#referrals, #link-referral-2, #link-crosssell-2, #link-retention-2{
+    display: none;
+}*/
+/*RESPONSIVE*/
+@media (max-height: 1080px) and (max-width: 1920px){
+    div#link-referral, div#link-crosssell {
+        background-position-y: bottom;
+    }
+}
+@media (max-height: 800px) and (max-width: 1024px){
+    .col-md-5 {
+        width: 60%;
+    }
+}
+
+@media (max-height: 736px) and (max-width: 414px){
+    .col-md-6, .col-md-5,.col-md-3, .col-md-10 {
+        width: 100%;
+    }
+    .policyreview-Headtext {
+        font-size: 40px;
+    }
+    .benefits-crosssell-text, .benefits-referrals-text {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .benefits-body .col-md-10 > h1 {
+        text-align: center;
+        font-size: 21px;
+    }
+    ul>li {
+        font-size: 17px;
+        line-height: 29px;
+    }
+    .btn-orange.col-md-5 {
+        width: 87%;
+    }
+    .btn-orange{
+        font-size: 14px;
+    }
+    .policy-signup {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .custom-policy {
+        padding: 5% 5% 5% 5%;
+    }
+    .custom-policy-body {
+        padding: 5% 5%;
+    }
+    div#link-crosssell {
+        width: 95%;
+        margin-left: 0px;
+    }
+    .benefits-reviews {
+        padding: 5% 5% 5% 5%;
+    }
+    div#link-retention-crosssell , div#link-referral{
+        width: 95%;
+    }
+}
+
+@media (max-height:568px) and (max-width: 320px){
+    .policyreview-Headtext {
+        font-size: 31px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .benefits-body .col-md-10 > h1 {
+        line-height: 25px;
+        margin-left: 15px;
+    }
+    .btn-orange.col-md-5 {
+        width: 84%;
+    }
+    .btn-orange.col-md-5 {
+        width: 84%;
+    }
+    .policy-signup > span, .custom-policy-body>div>span {
+        font-size: 27px;
+        line-height: 40px;
+    }
+    .btn-orange{
+        font-size: 12px;
+    }
+
+}
+@media (max-height:812px) and (max-width:375px){
+    .col-md-6, .col-md-3, .col-md-5 , .col-md-10{
+        width: 100%;
+    }
+    .benefits-crosssell-text , .benefits-referrals-text{
+        width: 80%;
+        margin-left: -0.5%;
+    }
+    .benefits-reviews {
+        padding: 5% 5% 5% 5%;
+    }
+    .btn-orange.col-md-5 {
+        width: 88%;
+        margin-bottom: 10px;
+    }
+    .policy-signup {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .policy-signup > span, .custom-policy-body>div>span {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .custom-policy {
+        padding: 5% 5% 5% 5%;
+    }
+    .custom-policy-body {
+        padding: 5% 5%;
+    }
+    div#link-retention-crosssell, div#link-referral {
+        width: 80%;
+    }
+    div#link-crosssell {
+        width: 80%;
+        margin-left: 0px;
+    }
+}

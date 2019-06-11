@@ -1,0 +1,25 @@
+{
+  "name": "engagexappointments",
+  "version": "1.0.0",
+  "description": "engagexappointments.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngagexCorpDev/engagexappointments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngagexCorpDev/engagexappointments/issues"
+  },
+  "homepage": "https://github.com/EngagexCorpDev/engagexappointments#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "fontawesome": "^4.7.0",
+    "jquery": "^2.2.4"
+  }
+}

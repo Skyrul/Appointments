@@ -1,0 +1,172 @@
+.col-md-2{
+    width: 11%;
+    display: inline-block;
+}
+.col-md-3{
+    width: 24%;
+    display: inline-block;
+}
+.col-md-4{
+    width: 32%;
+     display: inline-block;
+}
+.col-md-5{
+    width: 45%;
+    display: inline-block;
+}
+.col-md-6{
+    width: 47%;
+    display: inline-block;
+}
+.col-md-8{
+    width:  60%;
+    display: inline-block;
+}
+.col-md-10{
+    width: 79%;
+}
+.col-md-12{
+    width: 100%;
+}
+.agency-intro{
+    padding: 15% 5%;
+}
+.agencyThirve-Headtext, .agency-intro-subtxt p,.benefits-box p,.benefits-box span,.agency-contact-us p{
+    font-family: 'Helvetica';
+}
+.agencyThirve-Headtext{
+    font-size: 44px;
+    color: #fff;
+}
+.agency-intro-image{
+    margin-top:-13%;
+}
+.agency-watch-video{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    opacity: 0.5;
+}
+.btn-white:hover{
+    background-color: #212121;
+}
+.btn-watch-video{
+    background: rgb(0,0,0,0.3);
+    font-size: 18px;
+    color: #434343;
+    text-align: center;
+}
+.img-play{
+    width: 25%;
+}
+.agency-intro-subtxt{
+    padding:3% 15% 3% 15%;
+}
+.agency-benefits{
+    padding:3% 13% 3% 13%;
+}
+.agency-intro-subtxt p, .benefits-box p,.agency-contact-us p{
+    font-size: 16px;
+    color: #282828;
+}
+.img-benefits{
+    width: 30%;
+}
+.benefits-box{
+    /*padding: 10px;*/
+    margin-left: 10px;
+    height: 300px;
+    box-shadow: 5px 5px 10px #c3c3c3;
+    vertical-align: top;
+}
+.benefits-box span{
+    font-size: 24px;
+    color: #282828;
+}
+.benefits-box p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.second-row{
+    padding-top: 25px;
+}
+.agency-contact-us{
+    padding: 20px;
+    background-color: #F7F7F9;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.contact-input-email{
+    height: 40px;
+    font-size: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+/*RESPONSIVE*/
+@media (max-height: 800px) and (max-width:1024px){
+    .agency-watch-video {
+        top: 70%;
+        left: 36%;
+    }
+    .agency-contact-us {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+@media (max-height: 736px) and (max-width: 414px){
+    .agencyThirve-Headtext {
+        font-size: 32px;
+    }
+    img.img-agency-intro {
+        width: 80%;
+    }
+    .agency-watch-video {
+        top: 36%;
+        left: 27%;
+    }
+    .btn-white{
+        padding: 7px 9px;
+        font-size: 12px;
+    }
+    .agency-intro-subtxt , .agency-benefits{
+        padding: 3% 5% 3% 5%;
+    }
+    .agency-intro-subtxt p, .benefits-box p, .agency-contact-us p {
+        font-size: 14px;
+    }
+    .col-md-6 {
+        width: 100%;
+    }
+    .agency-contact-us {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .col-md-8 {
+        width: 100%;
+    }
+    .col-md-3 {
+        width: 90%;
+        margin-top: 20px;
+    }
+    .contact-input-email {
+        font-size: 16px;
+    }
+}
+@media (max-height: 568px) and (max-width: 320px){
+    .btn-white {
+        font-size: 9px;
+    }
+    .agency-watch-video {
+        top: 48%;
+        left: 23%;
+    }
+}
+@media (max-height: 667px) and (max-width: 375px){
+    .agency-watch-video {
+        top: 44%;
+        left: 25%;
+    }
+}

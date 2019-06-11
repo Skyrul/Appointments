@@ -1,0 +1,132 @@
+html,body{margin:0;padding:0}@font-face{font-family:'MyriadPro-Regular';font-style:normal;font-weight:normal;src:local('Myriad Pro Regular'),url('../fonts/MYRIADPRO-REGULAR.woff') format('woff')}@font-face{font-family:'MyriadPro-Light';font-style:normal;font-weight:normal;src:local('Myriad Pro Light'),url('../fonts/MyriadPro-Light.woff') format('woff')}@font-face{font-family:'MyriadPro-Semibold';font-style:normal;font-weight:normal;src:local('Myriad Pro Semibold'),url('../fonts/MYRIADPRO-SEMIBOLD.woff') format('woff')}@font-face{font-family:'MyriadPro-Bold';font-style:normal;font-weight:normal;src:local('Myriad Pro Bold'),url('../fonts/MYRIADPRO-BOLD.woff') format('woff')}.header{width:90vw;padding:0 5vh;height:94px;display:flex;justify-content:space-between;align-items:center;margin:0 auto}
+
+.contact-us {
+    font-family: MyriadPro-Regular;
+    background-color: #fff;
+    padding-top: 15px;
+}
+.col-md-2{
+    width: 11%;
+    display: inline-block;
+}
+.col-md-3{
+    width: 17.5%;
+    display: inline-block;
+}
+.col-md-4{
+    width: 32%;
+     display: inline-block;
+}
+.col-md-5{
+    width: 45%;
+    display: inline-block;
+}
+.col-md-6 {
+    width: 47%;;
+    display: inline-block;
+}
+.col-md-8{
+    width:  55%;
+    display: inline-block;
+}
+.col-md-10{
+    width: 79%;
+}
+.col-md-12{
+    width: 100%;
+}
+.contact-us-intro{
+    background-size: 150%
+}
+.contact-us-intro-text{
+    padding: 5% 10%;
+}
+.contact-us-intro-text span{
+    font-size: 44.0px;
+    color: #fff;
+    line-height: 61.0px;
+}
+.contact-us-form {
+    padding: 5% 30% 10% 30%;
+}
+.form-group label{
+    font-size: 20px;
+    color: #eee;
+}
+.input-form {
+    padding-bottom: 16px;
+    width: 48%;
+    margin-right: 7px;
+    display: inline-block;
+}
+.form-control {
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+    border: 1px solid #868686;
+}
+.form-control:focus{
+    border: 1px solid #00fff5;
+}
+textarea.form-control{
+    height: 90px;
+    resize: none;
+    margin-bottom: 18px;
+    width: 98.5%;
+}
+#date{
+    width: 31%;
+}
+#time{
+    width: 22%;
+    margin-left: 1px;
+}
+.contact-us-intro-text h2{
+    color: #0A4878;
+    font-size:35px;
+}
+.contact-us-intro-text hr{
+    border: 2px solid #0A4878;
+    width: 14%;
+}
+/*RESPONSIVE*/
+@media (max-height:600px) and (max-width:1024px){
+    .contact-us-form {
+        padding: 0% 20% 10% 20%;
+    }
+    .contact-us-intro {
+        background-size: 180%;
+    }
+}
+
+@media (max-height:736px) and (max-width:414px){
+    .contact-us-form {
+        padding: 0% 7% 10% 7%;
+    }
+    .contact-us-intro {
+        background-size: 400%;
+    }
+    #date {
+        width: 47%;
+    }
+    #time {
+        width: 35%;
+    }
+}
+@media (max-height: 750px) and (max-width: 450px){
+    .contact-us-form {
+        padding: 0% 20% 10% 20%;
+    }
+    .contact-us-intro {
+        background-size: 218%;
+    }
+}
+
+.btn-orange{background:#F0903C;padding:15px 40px;border-radius:50px;font-family:MyriadPro-Bold;font-size:16px;color:#FFFFFF;letter-spacing:1.4px;text-align:center;text-transform:uppercase;transition:.2s eas-in}.btn-orange:hover{background:#d67928}
+
+.contact-us-intro-text {
+    padding-top: 6px;
+    margin-bottom: -36px;
+}

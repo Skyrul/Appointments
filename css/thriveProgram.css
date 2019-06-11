@@ -1,0 +1,228 @@
+.thriveprogram{
+    font-family:MyriadPro-Regular;
+}
+.col-md-2{
+    width: 11%;
+    display: inline-block;
+}
+.col-md-3{
+    width: 17.5%;
+    display: inline-block;
+}
+.col-md-4{
+    width: 32%;
+     display: inline-block;
+}
+.col-md-5{
+    width: 45%;
+    display: inline-block;
+}
+.col-md-6 {
+    width: 47%;;
+    display: inline-block;
+}
+.col-md-8{
+    width:  55%;
+    display: inline-block;
+}
+.col-md-10{
+    width: 79%;
+}
+.col-md-12{
+    width: 100%;
+}
+.thriveProgram-intro-text span, .thrive-training-videos span, .thrive-program-tools span{
+    font-size: 44.0px;
+    color: #0a4776;
+    text-align: left;
+    line-height: 61.0px;
+}
+.thriveProgram-intro{
+    padding: 0% 8% 5% 8%;
+}
+p{
+    font-size: 18.0px;
+    color: #282828;
+    text-align: left;
+    line-height: 28.0px;
+}
+.img-logo{
+    width: 30%;
+}
+.img-thriveProgram-one{
+    width:75%;
+    height: 320px;
+    margin-left:20%;
+}
+.img-thriveProgram-two{
+    width:80%;
+    height: auto;
+    margin-left:40%;
+    margin-top: -40px;
+}
+.col-md-6.thriveProgram-head.thriveProgram-intro-text {
+    padding-top: 5%;
+    width: 52%;
+}
+.thrive-training-videos,.thrive-program-tools,.thrive-plan{
+    padding: 5% 8% 5% 8%;
+}
+.img-video-div {
+    padding-top: 2%;
+    padding-right: 32px;
+}
+.img-video {
+    width: 100%;
+}
+.img-video-subtext{
+    background-color: #f7f7f7;
+    padding: 5%;
+    margin-top: -10px;
+}
+.img-video-subtext span{
+    font-size: 23.0px;
+    color: rgba(40, 40, 40, 1.0);
+    text-align: left;
+    line-height: 34.0px;
+}
+.img-video-subtext p{
+        font-size: 16.0px;
+    color: rgba(40, 40, 40, 1.0);
+    text-align: left;
+    line-height: 19.0px;
+}
+.thrive-program-tools{
+    background-color: #f7f7f7;
+}
+.prog-image{
+    width: 85%;
+}
+.list-program-tools{
+    background-color: #fff;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.list-prog-subtext{
+    vertical-align: middle;
+}
+
+.list-prog-subtext span,.list-prog-subtext span > a{
+    font-size: 18.0px;
+    color: rgba(40, 40, 40, 1.0);
+    text-align: left;
+    line-height: 26.0px;
+    
+}
+.thrive-plan-text span{
+    font-size: 41.0px;
+    color: rgba(10, 71, 118, 1.0);
+    text-align: left;
+    line-height: 52.0px;
+}
+.thrive-plan-text p{
+    font-size: 16.0px;
+    color: rgba(150, 150, 150, 1.0);
+    text-align: left;
+    line-height: 28.0px;
+}
+.thrive-policy{
+    background-color: #0A4776;
+    padding:5%;
+    margin-left: 2%;
+}
+.thrive-policy span{
+    font-size: 24.0px;
+    color: rgba(255, 255, 255, 1.0);
+    text-align: left;
+    line-height: 30.0px;
+}
+.thrive-plan-text{
+    vertical-align: middle;
+}
+/*MODAL FOR VIDEO*/
+video {
+    width: 592px;
+}
+.modal-header {
+    text-align: center;
+    padding: 2%;
+}
+
+/*RESPONSIVE*/
+@media (max-height:800px) and (max-width:1024px){
+    p {
+        line-height: 20px;
+    }
+    .col-md-6 {
+        width: 46%;
+    }
+    .col-md-4 {
+        width: 31%;
+    }
+}
+
+@media(max-height: 736px) and (max-width:414px){
+    .col-md-6.thriveProgram-head.thriveProgram-intro-text, .col-md-5, .col-md-6, .col-md-4, .col-md-8 {
+        width: 100%;
+    }
+    .img-thriveProgram-one {
+        width: 90%;
+        height: 293px;
+        margin-left: -2%;
+    }
+    .img-thriveProgram-two {
+        width: 92%;
+        margin-left: 10%;
+        margin-top: -47px;
+    }
+    .col-md-4.list-prog-subtext {
+        width: 41%;
+    }
+    .col-md-10 {
+        width: 89%;
+    }
+    .btn-orange{
+        font-size: 13px;
+    }
+    .thrive-policy {
+        padding: 5%;
+        margin-top: 20px;
+        margin-left: -5%;
+    }
+    .col-md-8.list-prog-subtext {
+        width: 55%;
+    }
+}
+@media(max-height: 568px) and (max-width:320px){
+    .thriveProgram-intro-text span, .thrive-training-videos span, .thrive-program-tools span {
+        font-size: 34px;
+        line-height: 34px;
+    }
+    p{
+        font-size: 15px;
+    }
+    .img-thriveProgram-one {
+        height: 190px;
+    }
+    .img-video-subtext span {
+        font-size: 20px;
+    }
+    .list-prog-subtext span {
+        font-size: 16px;
+    }
+    .thrive-plan-text span {
+        font-size: 24px;
+        line-height: 31px;
+    }
+    .thrive-plan-text p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .col-md-10 {
+        width: 85%;
+    }
+    .btn-orange {
+        font-size: 12px;
+    }
+}

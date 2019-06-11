@@ -1,0 +1,801 @@
+/*CSS*/
+.servicedescription{
+     font-family:MyriadPro-Regular;
+}
+.kind-featured,p{
+    font-family: 'Helvetica';
+}
+p{
+    font-size: 13px;
+    color: #999;
+    letter-spacing: 0;
+    line-height: 25px;
+    font-weight: 400px;
+    
+}
+.hr-service-intro{
+    width: 20%;
+    border: 2px solid #e5e5e5;
+    border-radius: 5px;
+}
+.col-md-2{
+    width: 10%;
+    display: inline-block;
+}
+.col-md-3{
+    width: 24%;
+    display: inline-block;
+}
+.col-md-4{
+    width: 32%;
+     display: inline-block;
+}
+.col-md-5{
+    width: 45%;
+    display: inline-block;
+}
+.col-md-6{
+    width: 49%;
+    display: inline-block;
+}
+.col-md-8{
+    width:  60%;
+}
+.col-md-10{
+    width: 80%;
+}
+.col-md-12{
+    width: 100%;
+}
+.services-intro{
+    margin: 5% 0% 5% 0%;
+    padding: 5% 5% 4% 5%;
+}
+.col-md-6.text-intro{
+    margin-top: -10px;
+}
+.services-Headtext{
+    font-family:'MyriadPro-Regular';
+    font-size : 44.0px;
+    color :#0a4776;
+    text-align : right;
+    line-height : 22.0px;
+}
+.img-services-intro{
+    width: 40%;
+    position: absolute;
+    top: 27%;
+    left:48%;
+}
+.features-headtext>span{
+    font-family: 'Helvetica';
+    font-size:41px;
+    font-weight: 400;
+    color: #0a4776;
+}
+.img-features{
+    width: 50px;
+}
+.kind-featured{
+    font-size: 20px;
+    color: #0a4776;
+}
+.featured-desc{
+    color: #000;
+}
+.list-of-features{
+    padding: 3% 10% 3% 10%;
+}
+.list-of-features .col-md-4{
+    padding: 5px 6px 5px 6px;
+    height: auto;
+    vertical-align: top;
+}
+.button-options > a > .btn-orange.col-md-2,.button-options > a > .btn-orange.col-md-3{
+    font-family: 'Helvetica';
+    font-weight: 400;
+    font-size: 15px;
+}
+.notice{
+    background-color: #F6F7F9;
+    margin: 5% 10%;
+    padding:3% 20%;
+}
+.notice>p{
+    color: #222;
+    font-size: 12px;
+}
+.why-approach{
+    margin:5% 15%;
+}
+.why-approach .col-md-6{
+    vertical-align: top;
+}
+.why-approach .col-md-6>span{
+    font-family: 'Helvetica';
+    font-weight:600;
+    font-size: 16px;
+}
+.why-approach .col-md-6>p{
+    font-family: 'Helvetica';
+    font-weight:400;
+    font-size: 14px;
+    color: #222;
+}
+.to-appointmentsetter{
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+.to-appointmentsetter span{
+    font-size: 16.0px;
+    color: rgba(40, 40, 40, 1.0);
+    text-align: center;
+    line-height: 27.0px;
+}
+.engagex-VS-inhouse{
+    padding:5%;
+    background-color: #f7f7f7;
+}
+.engagex-VS-inhouse span{   
+    font-size: 41.0px;
+    color: rgba(10, 71, 118, 1.0);
+    text-align: center;
+    line-height: 52.0px;
+}
+.tbl-versus{
+    margin: 5% 15% 5% 15%;
+    background-color: #fff;
+    padding: 2%;
+}
+.tbl-versus table>tbody>tr>td:nth-child(1){
+    text-align: left;
+    border-left: 0px;
+}
+.tbl-versus table>tbody>tr>th{
+    font-size: 18.0px;
+    color: rgba(40, 40, 40, 1.0);
+    text-align: center;
+    line-height: 51.0px;
+}
+.tbl-versus table>tbody>tr>td{
+    font-size: 18.0px;
+    color: rgba(40, 40, 40, 1.0);
+    text-align: center;
+    line-height: 51.0px;
+    border-left: 1px solid #f7f7f7;
+    border-bottom: 1px solid #f7f7f7;
+}
+.tbl-versus table>tbody>tr>td:nth-last-child(2)>img{
+    width: 20%;
+}
+.img-pricing-mark {
+    width: 10%;
+}
+#cf img {
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+@keyframes cf3FadeInOut {
+  0% {
+  opacity:1;
+}
+45% {
+opacity:1;
+}
+55% {
+opacity:0;
+}
+100% {
+opacity:0;
+}
+}
+
+#cf img.img-services-intro.top {
+    animation-name: cf3FadeInOut;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 10s;
+    animation-direction: alternate;
+}
+
+/*Responsive CSS*/
+@media (max-height: 1200px) and (max-width:1920px){
+    .services-intro {
+        padding: 5% 5% 7% 5%;
+    }
+    .img-services-intro {
+        width: 49%;
+        position: absolute;
+        top: 16%;
+        left: 48%;
+    }
+    p {
+        font-size: 25px;
+        color: #999;
+        letter-spacing: 0;
+        line-height: 33px;
+        font-weight: 400px;
+    }
+    .kind-featured {
+        font-size: 37px;
+        color: #0a4776;
+    }
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3 ,.btn-orange.col-md-2{
+        font-weight: 400;
+        font-size: 24px;
+        margin-left: 20px;
+    }
+    .notice>p , .why-approach .col-md-6>p, .to-appointmentsetter span{
+        color: #222;
+        font-size: 25px;
+    }
+    .notice {
+        padding: 3% 8%;
+    }
+    .why-approach .col-md-6>span {
+        font-size: 35px;
+    }
+    .col-md-4.feature:nth-child(10) {
+        width: 66%;
+    }
+    .features-headtext>span {
+        font-size: 50px;
+    }
+}
+
+@media (max-height:1080px) and (max-width:1920px){
+    .img-services-intro {
+        width: 50%;
+        left: 46%;
+    }
+}
+
+@media (max-height:1050px) and (max-width:1680px){
+    .img-services-intro {
+        width: 48%;
+        top: 19%;
+        left: 42%;
+    }
+}
+
+@media (max-height: 900px) and (max-width:1600px){
+    .img-services-intro {
+        width: 52%;
+        top: 20%;
+        left: 42%;
+    }
+    .kind-featured {
+        font-size: 33px;
+    }
+    .why-approach .col-md-6>span {
+        font-size: 27px;
+    }
+    .notice>p, .why-approach .col-md-6>p, .to-appointmentsetter span {
+        font-size: 22px;
+    }
+}
+
+@media (max-height:900px) and (max-width:1440px){
+    p {
+        font-size: 20px;
+        line-height: 31px;
+    }
+    .kind-featured {
+        font-size: 30px;
+    }
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3, .btn-orange.col-md-2 {
+        font-size: 18px;
+    }
+}
+
+@media (max-height: 768px) and (max-width: 1366px){
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3, .btn-orange.col-md-2 {
+        font-size: 17px;
+    }
+    .img-services-intro {
+        width: 53%;
+        top: 25%;
+    }
+    p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .kind-featured {
+        font-size: 24px;
+    }
+    .features-headtext>span {
+        font-size: 42px;
+    }
+    .why-approach .col-md-6>span {
+        font-size: 25px;
+    }
+    .notice>p, .why-approach .col-md-6>p, .to-appointmentsetter span {
+        font-size: 20px;
+    }
+}
+
+/*
+@media screen and (max-width: 1760px){
+    .img-services-intro {
+        width: 33%;
+        position: absolute;
+        top: 20%;
+        left: 60%;
+    }
+    .features-headtext>span {
+        font-size: 50px;
+    }
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3, .btn-orange.col-md-2 {
+        font-weight: 400;
+        font-size: 22px;
+        margin-left: 20px;
+    }
+    .btn-orange.col-md-2 {
+        width: 13%;
+    }
+}*/
+
+
+/*
+
+@media screen and (max-width: 1366px){
+    .img-services-intro {
+        width: 47%;
+        position: absolute;
+        top: 25%;
+        left: 48%;
+    }
+    p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .col-md-4 {
+        width: 32%;
+    }
+}
+*/
+
+@media screen and (max-width: 1024px){
+    .img-services-intro {
+        width: 51%;
+    }
+    .kind-featured {
+        font-size: 21px;
+    }
+    .list-of-features {
+        padding: 3% 5% 3% 5%;
+    }
+    .notice>p, .why-approach .col-md-6>p, .to-appointmentsetter span, .features-headtext p {
+        font-size: 17px;
+    }
+    .why-approach .col-md-6>span {
+        font-size: 21px;
+    }
+}
+
+@media screen and (max-width: 1159px){
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3 {
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:1040px){
+    p {
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .col-md-4 {
+        width: 30%;
+    }
+    .btn-orange.col-md-2 {
+    width: 14%;
+    }
+}
+
+@media screen and (max-width: 958px){
+    p {
+        font-size: 11.5px;
+        line-height: 20px;
+    }
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3 {
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width: 902px){
+    .col-md-6{
+        width: 100%;
+    }
+     .img-services-intro {
+        width: 100%;
+        left: 0%;
+        position: relative;
+    }
+    .col-md-6.text-intro {
+        text-align: center;
+        padding-left: 30px;
+    }
+    .hr-service-intro {
+        width: 100%;
+    }
+    .col-md-10 {
+        width: 100%;
+    }
+    .col-md-2 {
+        width: 30%;
+        margin-bottom: 10px;
+    }
+    .col-md-3 {
+        width: 50%;
+    }
+    /*
+    .img-services-intro {
+        width: 47%;
+        top: 25%;
+    }*/
+    p {
+        font-size: 11px;
+    }
+    .kind-featured {
+        font-size: 14px;
+    }   
+    .features-headtext>span {
+        font-size: 30px;
+    }
+    .img-features {
+    width: 40px;
+    }
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3 {
+        font-size: 10px;
+    }
+    .why-approach .col-md-6>p {
+        font-size: 12px;
+    }
+    .notice>p {
+        font-size: 10px;
+    }
+    .notice {
+        padding: 3% 10%;
+    }
+}
+
+@media screen and (max-width:784px){
+    .services-intro {
+        padding: 5% 3% 4% 3%;
+    }
+    .img-services-intro {
+        top: 37%;
+        width: 100%;
+    }
+    .col-md-10 {
+        width: 90%;
+    }
+    .services-Headtext {
+        font-size: 30.0px;
+    }
+    p{
+        line-height: 16px;
+    }
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3 {
+        font-size: 9px;
+    }   
+    .why-approach .col-md-6>span {
+        font-size: 13px;
+    }
+    .why-approach .col-md-6>p {
+        font-size: 10px;
+    } 
+}
+
+/*@media screen and (max-width:734px){
+     
+    .col-md-2 {
+        width: 5%;
+    }
+    .col-md-3 {
+        width: 30%;
+    }
+    .services-intro {
+        padding: 3% 3% 4% 3%;
+    }
+    
+        width: 35px;
+    }
+    /*.col-md-4 {
+        width: 40%;
+    }
+    .features-headtext>span {
+        font-size: 25px;
+    }
+    /*p {
+        font-size: 10px;
+        line-height: 15px;
+    }*/
+}*/
+
+@media screen and (max-width: 680px){
+   .col-md-6.text-intro {
+        padding-left: 0px;
+    }
+    .services-Headtext {
+        font-size: 25px;
+    }
+    .hr-service-intro {
+        border: 1px solid #e5e5e5;
+    }
+    .services-intro {
+        padding: 3% 0% 4% 3%;
+    }
+    .img-services-intro {
+        width: 47%;
+        top: 23.2%;
+    }
+    .col-md-6{
+        width: 100%;
+    }
+     .img-services-intro {
+        width: 100%;
+        left: 0%;
+        position: relative;
+    }
+}
+@media screen and (max-width: 612px){
+    .img-services-intro {
+        width: 40%;
+        top: 24.2%;
+        left: 55%;
+    }
+    .services-intro {
+        padding: 2% 0% 4% 3%;
+    }
+    
+}
+
+@media screen and (max-width:414px/* 375px*/){
+    .col-md-4{
+        width:100%;
+    }
+    .col-md-6.text-intro {
+        padding-left: 0px;
+    }
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3 {
+        font-size: 12px;
+    }
+    .features-headtext>span {
+        font-size: 20px;
+    }
+    .notice{
+        padding: 3% 3%;
+        margin: 5% 3%;   
+    }
+    .row.features-headtext {
+        padding: 0px 10px 0px 10px;
+    }
+    .why-approach .col-md-6 {
+        width: 100%;
+        text-align: center;
+    }
+    .img-services-intro {
+        width: 100%;
+        left: 0%;
+        position: relative;
+    }
+    p {
+        text-align: center;
+    }
+    .col-md-2 {
+        width: 50%;
+        margin-bottom: 10px;
+    }
+    .col-md-3 {
+        width: 70%;
+    }
+    .why-approach .col-md-6>span {
+        font-size: 14px;
+    }
+    .why-approach {
+        margin: 5% 10%;
+    }
+    /*.col-md-6.text-intro {
+        text-align: center;
+    }*/
+    /*.hr-service-intro {
+        width: 100%;
+    }
+    .col-md-6{
+        width:100%;
+    }*/
+    .services-intro {
+        background-size: 200%;!important
+    }
+    .btn-orange.col-md-2 {
+        width: 30%;
+    }
+    .engagex-VS-inhouse span {
+        font-size: 36px;
+    }
+    .tbl-versus {
+        margin: 5% 2% 5% 2%;
+    }
+    .tbl-versus table>tbody>tr>th {
+        font-size: 18px;
+        line-height: 29px;
+    }
+    .img-pricing-mark {
+        width: 18%;
+    }
+    .tbl-versus table>tbody>tr>td:nth-last-child(2)>img {
+        width: 30%;
+    }
+}
+
+@media (max-height: 568px) and (max-width: 320px){
+    .btn-orange{
+        font-size: 11px;
+    }
+    .engagex-VS-inhouse span {
+        font-size: 29px;
+        line-height: 33px;
+    }
+    .tbl-versus table>tbody>tr>th {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .tbl-versus table>tbody>tr>td {
+        font-size: 13px;
+        line-height: 33px;
+    }
+    .to-appointmentsetter {
+        padding-bottom: 5%;
+        padding-top: 5%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .notice>p {
+        font-size: 12px;
+    }
+    .why-approach .col-md-6>p {
+        font-size: 12px;
+    }
+    p {
+        font-size: 12px;
+    }
+    .col-md-6.text-intro {
+        padding-left: 13px;
+    }
+    .img-services-intro {
+        width: 96%;
+    }
+    img.img-services-intro.top {
+        top: 64%;
+        position: absolute;
+        width: 95%;
+        left: 3%;
+    }
+}
+
+@media (max-height: 667px) and (max-width:375px){
+    .img-services-intro {
+        width: 96%;
+    }
+    img.img-services-intro.top {
+        top: 64%;
+        position: absolute;
+        width: 95%;
+        left: 3%;
+    }
+}
+
+@media (max-height: 736px) and (max-width: 414px){
+    p {
+        font-size: 14px;
+    }
+    img.img-services-intro.top {
+        top: 64%;
+        position: absolute;
+        width: 95%;
+        left: 3%;
+    }
+    .img-services-intro {
+        width: 97%;
+    }
+    img.img-services-intro.top {
+        top: 50.5%;
+        position: absolute;
+        width: 94%;
+        left: 3%;
+    }
+    .col-md-4.feature:nth-child(10) {
+        width: 100%;
+    }
+    
+}
+
+@media (max-height:736px) and (max-width:414px){
+    .col-md-6.text-intro {
+        padding-left: 12px;
+    }
+    img.img-services-intro.top {
+        top: 46.5%;
+    }
+    .notice>p, .why-approach .col-md-6>p {
+        font-size: 13px;
+    }
+    .notice>p, .why-approach .col-md-6>p, .to-appointmentsetter span, .features-headtext p {
+        font-size: 17px;
+        line-height: 20px;
+    }
+}
+@media (max-height: 812px) and (max-width: 375px){
+    p {
+        font-size: 13.5px;
+        line-height: 20px;
+    }
+    .col-md-6.text-intro {
+        padding-left: 8px;
+    }
+    img.img-services-intro.top {
+        top: 50%;
+        position: absolute;
+        width: 95%;
+        left: 3%;
+    }
+    .img-services-intro {
+        width: 98%;
+    }
+    .notice>p, .why-approach .col-md-6>p, .to-appointmentsetter span, .features-headtext p {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .to-appointmentsetter {
+        padding: 5%;
+    }
+    .btn-orange.col-md-2 {
+        width: 50%;
+    }
+    .col-md-4.feature:nth-child(10) {
+        width: 100%;
+    }
+}
+
+@media (max-height:667px) and (max-width:375px){
+    img.img-services-intro.top {
+        top: 55.5%;
+    }
+    .col-md-4.feature:nth-child(10) {
+        width: 100%;
+    }
+    .notice>p, .why-approach .col-md-6>p, .to-appointmentsetter span, .features-headtext p {
+        font-size: 14px;
+    }
+    .notice>p {
+        font-size: 13px;
+    }
+    .btn-orange.col-md-2 {
+        width: 57%;
+        margin-right: 19px;
+    }
+    .tbl-versus table>tbody>tr>th {
+        font-size: 16px;
+        line-height: 23px;
+    }
+}
+@media (max-height:568px) and (max-width:320px){
+    img.img-services-intro.top {
+        top: 66.5%;
+    }
+    .col-md-4.feature:nth-child(10) {
+        width: 100%;
+    }
+    .button-options > a > .btn-orange.col-md-2, .button-options > a > .btn-orange.col-md-3 {
+        font-size: 11px;
+    }
+    .features-headtext p {
+        font-size: 15px;
+    }
+    .btn-orange.col-md-2 {
+        width: 47%;
+    }
+}

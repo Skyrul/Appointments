@@ -1,0 +1,125 @@
+/*override*/
+@media screen and (max-width: 1024px) {
+  .hamburger {
+      display: block;
+      align-items: center;
+      cursor: pointer;
+      margin-left: 36%;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .header {
+      padding: 0;
+      display: block !important;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .logo-img {
+      display: block;
+      width: 100%;
+      padding-top: 12px;
+      padding-bottom: 25px;
+      border-bottom: 1px solid lightgray;
+  }
+}
+
+.calendly-badge-widget {
+  display: none;
+}
+
+.modal-window {
+position: fixed;
+background-color: rgba(7, 35, 86, 0.25);
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+z-index: 999;
+opacity: 0;
+pointer-events: none;
+transition: all 0.3s;
+border: 1px solid gray;
+}
+.modal-window:target {
+opacity: 1;
+pointer-events: auto;
+}
+.modal-window > div {
+width: 760px;
+position: absolute;
+top: 50%;
+left: 50%;
+-webkit-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+padding: 2em;
+background: #ffffff61;
+color: #333333;
+}
+.modal-window header {
+font-weight: bold;
+}
+.modal-window h1 {
+font-size: 150%;
+margin: 0 0 15px;
+color: #333333;
+}
+
+.modal-close {
+color: #aaa;
+line-height: 50px;
+font-size: 90%;
+position: absolute;
+right: 0;
+text-align: center;
+top: 0;
+width: 70px;
+text-decoration: none;
+}
+.modal-close:hover {
+color: #000;
+}
+
+.header {
+z-index: 99999 !important;
+}
+
+div#content {
+z-index: 99  !important;
+}
+
+.footer {
+width: 96% !important;
+padding: 24px 2%  !important;
+background: #0A4776  !important;
+padding-bottom: 0  !important;
+}
+
+/* .footer .pre-footer div:first-child {
+width: 27% !important;
+} */
+
+/* .footer .pre-footer div {
+width: 16%;
+} */
+
+/* Medium button orange */
+.btn-orange-md {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 12px !important;
+  height: 32px;
+}
+
+.btn-orange2 {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 12px !important;
+  height: 32px;
+  line-height: 30px;
+}
