@@ -20,6 +20,6 @@
   "devDependencies": {
     "bootstrap": "^3.3.6",
     "fontawesome": "^4.7.0",
-    "jquery": "^2.2.4"
+    "jquery": "^3.4.0"
   }
 }
