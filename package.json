@@ -18,7 +18,7 @@
   "homepage": "https://github.com/EngagexCorpDev/engagexappointments#readme",
   "dependencies": {},
   "devDependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.4.1",
     "fontawesome": "^4.7.0",
     "jquery": "^2.2.4"
   }
